@@ -1,0 +1,15 @@
+.banner{
+    background: url("https://inspirasijatim.com/wp-content/uploads/2018/02/trenggalek11.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top:  30%;
+    padding-bottom: 30%;
+    color: #fff ;
+}
+.data{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.tulisan{
+    color: white;
+}
